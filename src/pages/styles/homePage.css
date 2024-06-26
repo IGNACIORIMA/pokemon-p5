@@ -1,0 +1,17 @@
+.homepage {
+    
+    height: 85vh;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.homepage_title {
+    max-width: 800px;
+    left: 5%;
+    bottom: -8px;
+}
+
